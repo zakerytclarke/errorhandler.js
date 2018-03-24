@@ -14,6 +14,6 @@ a
 <script src="https://zakerytclarke.github.io/errorhandler.js/errorhandler.js"></script>  
 
 <script>
-setTimeout(function(){ alert("Error"; },5000);
+alert("Error";
 </script>  
 
