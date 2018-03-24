@@ -13,6 +13,6 @@
 <script src="https://zakerytclarke.github.io/errorhandler.js/errorhandler.js"></script>  
 
 <script>
-alert(Errors for days....;
+setTimeout(function(){ alert("Error"; },5000);
 </script>  
 
