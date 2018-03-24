@@ -5,7 +5,6 @@
 
 
 ```markdown
-a
 <script src="https://zakerytclarke.github.io/errorhandler.js/errorhandler.js"></script>  
 ```
 
