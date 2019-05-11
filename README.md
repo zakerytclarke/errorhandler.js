@@ -13,6 +13,6 @@
 <script src="https://zakerytclarke.github.io/errorhandler.js/errorhandler.js"></script>  
 
 <script>
-alert("Error";
+alert("Error;
 </script>  
 
